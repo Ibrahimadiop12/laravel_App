@@ -1,0 +1,1 @@
+<marquee> Bonjour tout le monde </marquee>
